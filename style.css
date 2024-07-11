@@ -2,3 +2,16 @@ div{
     background-color: tomato;
     padding: 10px;
 }
+
+article{
+    color: greenyellow;
+    padding: 5px;
+    background-color: black;
+    margin: 0px;
+    border-color: gold;
+    border-radius: 5px;
+
+}
+h2{
+    text-align: center;
+}
